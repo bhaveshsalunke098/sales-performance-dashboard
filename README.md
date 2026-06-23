@@ -59,7 +59,8 @@ The objective of this task is to create an interactive dashboard that transforms
 
 ## 🖼️ Dashboard Preview
 
-<img width="713" height="930" alt="image" src="https://github.com/user-attachments/assets/c6045829-f334-4239-933d-e059c629a60f" />
+<img width="1320" height="746" alt="Dashboard" src="https://github.com/user-attachments/assets/32044c21-07d9-4d0f-812e-ebde177c1713" />
+
 
 
 ---
